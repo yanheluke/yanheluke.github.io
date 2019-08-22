@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      『Handbook on Impact Evaluation』书评
-subtitle:   未完待续
+subtitle:   因果推断手册
 date:       2019-08-22
 autor:      Yan He
 header-img: img/in-post/impact_evaluation_bg_1.jpg
