@@ -24,8 +24,10 @@
 ### Finance & Risk Management
 用来纪念一下自己还是七八年前还是学过金融的。
 
-- [FRM 持证人](http://my.garp.org/DigitalBadgeFRM?id=0034000001aeWr3AAE)
+- [FRM 金融风险管理师 持证人](http://my.garp.org/DigitalBadgeFRM?id=0034000001aeWr3AAE)
 - CFA Level I Candidate
+- CICPA 弃坑中
+
 
 ### Coursera
 学习CS和ML的主要场所。
