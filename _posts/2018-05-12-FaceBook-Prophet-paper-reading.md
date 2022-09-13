@@ -5,6 +5,8 @@ subtitle:   可爱的论文搬运工
 date:       2018-05-12
 autor:      Yan He
 header-img: img/facebook-prophet-1.jpg
+header-mask: 0.6
+mathjax:    true
 catalog:    true
 tags:
     - 论文
