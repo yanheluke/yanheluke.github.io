@@ -38,13 +38,12 @@ tags:
 第二天上午照旧是睡懒觉，下午吃了传说中的潮汕牛肉火锅，其实感觉还不如四川火锅。但大抵是汤底不油不辣，所以食材本身的质感与味道会更加明显一些。吃完饭我开始钻各种小巷，三两下之后就顺利找到了传说中的深圳城中村。欣欣然在狭窄的楼间小巷中穿过，两边是各种食肆后厨，各种下水的血腥味与鱼的腥味混杂在一起。剖鱼的小哥会疑惑地抬起头瞟我一眼。
 
 嗯，不是帅哥，没兴趣。
-![深圳城中村](https://cdn.jsdelivr.net/gh/yanheluke/image@main/深圳城中村.jpeg)
+![深圳城中村](https://yanheluke.oss-cn-beijing.aliyuncs.com/深圳城中村.jpeg)
 
 
 然后去了深南大道瞻仰传说中的深交所。
 
-![深交所](https://cdn.jsdelivr.net/gh/yanheluke/image@main/深交所.jpeg)
-
+![深交所](https://yanheluke.oss-cn-beijing.aliyuncs.com/深交所.jpeg)
 
 
 再然后去了深圳市民中心躲雨。在逼格颇高的书店里喜闻乐见地发现做高中自然地理题的中学生情侣，考CPA的苦逼大学生。

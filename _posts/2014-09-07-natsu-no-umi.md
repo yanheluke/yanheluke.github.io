@@ -41,4 +41,4 @@ tags:
 
 真希望下次听着歌拿着手机到处拍的时候想到的不是“以前”而是“现在我很快乐啊”。
 
-![夏海](https://cdn.jsdelivr.net/gh/yanheluke/image@main/natsu_no_umi.jpeg)
+![夏海](https://yanheluke.oss-cn-beijing.aliyuncs.com/natsu_no_umi.jpeg)
