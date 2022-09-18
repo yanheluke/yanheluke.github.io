@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      The Winter of Our Discontent————2013年终记。
+title:      The Winter of Our Discontent——2013年终记。
 subtitle:   博客归档计划
 date:       2014-01-10
 autor:      Yan He
