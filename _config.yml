@@ -1,10 +1,10 @@
 # Site settings
-title: Nash Equilibrium
+title: Luke He
 SEOTitle: Nash Equilibrium | Hy Blog
-header-img: img/home-bg3.jpg
+header-img: img/home-bg4.jpg
 email: heyan.swufe@gmail.com
 description: "全都在别处，大群的驯鹿。"
-keyword: "何颜, risk, machine learning, statistics, finance, R, Python"
+keyword: "何颜, Heyan, risk, machine learning, statistics, finance, R, Python"
 url: "https://yanheluke.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
