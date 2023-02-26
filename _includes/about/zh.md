@@ -18,7 +18,7 @@ About Me
 有一只叫做何包蛋的三岁美国短毛猫，一只叫做香蕉的四岁柴犬，以及一个男朋友，他在游戏行业从事数据分析工作。我们都希望能够环游世界。
 
 
-一些学习过的课程与里程碑
+关于专业与兴趣
 ------
 ##### Finance & Risk Management
 
@@ -36,7 +36,7 @@ About Me
 
 - [Deep Learning NanoDgree 深度学习](https://graduation.udacity.com/confirm/A4TCQYGQ)
 
-迄今为止的城市路径
+迄今为止的人生路径
 ------
 - 2021 - Now    美团点评，北京
 - 2020 - 2021   字节跳动，北京
