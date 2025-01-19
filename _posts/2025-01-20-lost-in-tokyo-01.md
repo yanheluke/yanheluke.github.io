@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Lost in Tkoyo 01
+title:      Lost in Tokyo 01
 subtitle:   迷失东京-01
 date:       2025-01-20
 autor:      Yan He
