@@ -1,17 +1,16 @@
 ---
 layout:     post
 title:      Lost in Tokyo 01
-subtitle:   迷失东京-01
+subtitle:   迷失东京01：东京塔的夜景、爱宕神社与涉谷
 date:       2025-01-20
 autor:      Yan He
 header-img: img/in-post/shibuya.jpg
 header-mask: 0.7
 catalog:    true
 tags:
-    - 杂记
-    - 博客
-    - 流水账
+    - 旅行
     - 2025
+    - 东京
 ---
 > 纪念2025.01.01 - 01.05 的五天四夜东京之旅。
 > 很遗憾一次性并不能全部写完。
