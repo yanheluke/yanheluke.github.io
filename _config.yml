@@ -89,7 +89,7 @@ gitalk:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Risk | Finance | Statistics <br>Machine Learning | 科幻 | 游戏 | J-Pop | 摄影小白 <br>贝克兰德魔术和戏剧表演的保护者。"
+sidebar-about-description: "Risk | Finance | Statistics |<br>Machine Learning | 科幻 | 游戏 | J-Pop | 摄影小白 <br>贝克兰德魔术和戏剧表演的保护者。"
 sidebar-avatar: /img/avatar-heyan-4.PNG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

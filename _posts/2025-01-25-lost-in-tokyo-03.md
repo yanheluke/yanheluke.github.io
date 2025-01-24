@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Lost in Tokyo 03: Science & Art
+title:      Lost in Tokyo 03
 subtitle:   迷失东京03：科学与艺术
 date:       2025-01-20
 autor:      Yan He
