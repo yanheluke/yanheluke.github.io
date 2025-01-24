@@ -2,7 +2,7 @@
 layout:     post
 title:      Lost in Tokyo 03
 subtitle:   迷失东京03：科学与艺术
-date:       2025-01-20
+date:       2025-01-25
 autor:      Yan He
 header-img: img/in-post/utokyo.jpg
 header-mask: 0.5
