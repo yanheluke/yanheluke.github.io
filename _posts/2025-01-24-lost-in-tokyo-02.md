@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Lost in Tokyo 02
+title:      Lost in Tokyo 02: Odaiba Memories
 subtitle:   迷失东京02：御台场纪念日
 date:       2025-01-24
 autor:      Yan He
